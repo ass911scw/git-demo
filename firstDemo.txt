@@ -5,3 +5,4 @@ hello git!
 在hot-fix分支上进行的修改~3333333
 this is the end of txt.
 在GitHub上进行修改
+团队中另一个成员对代码进行了修改
